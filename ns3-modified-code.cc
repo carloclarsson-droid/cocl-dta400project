@@ -1,4 +1,3 @@
-dta400@vbox:~/ns3/ns-allinone-3.45/ns-3.45$ cat scratch/modified-simple-routing-ping6.cc 
 /*
  * Copyright (c) 2008-2009 Strasbourg University
  *
@@ -154,3 +153,4 @@ main(int argc, char** argv)
 
     return 0;
 }
+
