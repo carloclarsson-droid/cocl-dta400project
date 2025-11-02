@@ -1,7 +1,7 @@
 # Retrieve latency values from a file and list them in order. 
 # Read from a file 'xxxxx.txt' in the same directory.
 # s = line of file; i = index of line.
-# Read only from lines with 'time=' and exclude all but the number. 
+# Read only from lines with 'time=' or 'time<' and exclude all but the number. 
 # Output as list of numbers representing latency of each ping. 
 
 fileName = input('Write the name of the file including type: ')
@@ -33,3 +33,4 @@ for s in pingFile:
 
 
             
+
