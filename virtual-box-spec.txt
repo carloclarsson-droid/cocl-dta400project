@@ -1,0 +1,26 @@
+VirtualBox version: 7.0
+
+-----------------------------------------
+
+Note: As presented to the virtual machine
+
+Hardware information:
+
+Model: innotek GmbH VirtualBox
+Memory: 7.8 GiB
+Processor: Intel Core i5-9300h x 4
+Graphics: Software Rendering
+Disk Capacity: 107.4 GB
+
+Software information:
+
+OS Name: Debian GNU/Linux 13 (trixie)
+OS Type: 64-bit
+GNOME Version: 48
+Windowing System: Wayland
+Virtualization: Oracle
+Kernel Version: Linux 6.12.48+dev13-amd64
+
+-----------------------------------------
+
+NS-3 Version: ns-3.45
