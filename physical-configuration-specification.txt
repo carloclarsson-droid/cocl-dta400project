@@ -55,7 +55,8 @@ r:
 
 Router model: Cisco Catalyst Edge C8200L-1N-4T
 Cisco IOS XE Software version: 17.06.06a
-https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.html
+Link: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.html
+See: r-running-configuration.txt and r-version.txt for further details
 
 ----------------------------------------------------------------------
 
@@ -64,6 +65,7 @@ Test command:
 Ping command used from n0 to n1:
 
 ping -n 100 -l 1024 -6 2001:db8:acad:1::10
+
 
 
 
